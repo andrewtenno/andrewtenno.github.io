@@ -11,7 +11,7 @@ Photo by [@illberightback_](https://instagram.com/illberightback_)
 
 I'm a Software Engineer, runner, outdoorsman, and thru-hiker.
 
-Currently building iOS apps at [Facebook](https://facebook.com).
+Currently building iOS apps at [~~Facebook~~ Meta](https://facebook.com).
 
 ### Previously I've worked on iOS apps at
 

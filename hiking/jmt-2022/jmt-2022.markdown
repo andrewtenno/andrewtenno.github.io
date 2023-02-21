@@ -1,0 +1,49 @@
+---
+layout: post
+title: John Muir Trail Sections (Summer 2022)
+permalink: /hiking/jmt-22/
+---
+
+# John Muir Trail Sections - Summer 2022
+
+## Background
+
+After a year away I decided to revisit some of the places I loved during [my initial hike of the JMT]((/hiking/jmt-20/)). This year I divided the trip up into two sections:
+- Mono Pass (Yosemite) to Mammoth Lakes
+- Bishop Pass to Evolution Lake (and back!)
+
+I primarily focused on fishing during these two trips - something I wasn't able to do much of during my tru hike.
+
+## Prep
+### Gear
+- [Lighterpack](https://lighterpack.com/r/i0cune)
+
+## Mono Pass (Yosemite) to Mammoth Lakes
+- [Day 1: (Mono Pass Trailhead to Alger Lakes)](/hiking/jmt-22/part-1-day-1)
+- [Day 2: (Alger Lakes to Thousand Island Lake)](/hiking/jmt-22/part-1-day-2)
+- [Day 3: (Thousand Island Lake to Reds Meadow)](/hiking/jmt-22/part-1-day-3)
+- [Day 4: (Reds Meadow to Mammoth Lakes)](/hiking/jmt-22/part-1-day-4)
+
+## Bishop Pass to Evolution Lake (and back!)
+- [Day 1: (South Lake to Big Pete Meadow)](/hiking/jmt-22/part-2-day-1)
+- [Day 2: (Big Pete Meadow to Evolution Lake)](/hiking/jmt-22/part-2-day-2)
+- [Day 3: (Evolution Lake to Le Conte Canyon)](/hiking/jmt-22/part-2-day-3)
+- [Day 4: (Le Conte Canyon to South Lake)](/hiking/jmt-22/part-2-day-2)
+
+## Other Trips
+- [Piute Pass](/hiking/jmt-22/other/piute-pass)
+- [Thousand Island Loop](/hiking/jmt-22/part-10)
+
+## Favorite Photos
+
+![Alger Lakes](/assets/jmt-2022/1/Alger-Lakes.jpeg)
+![Golden Trout](/assets/jmt-2022/2/Golden-Trout.jpeg)
+![Rainbow](/assets/jmt-2022/2/Rainbow.jpeg)
+![Thousand Island](/assets/jmt-2022/3/Thousand-Island.jpeg)
+![Waterfall](/assets/jmt-2022/5/Waterfall.jpeg)
+![Muir Hut](/assets/jmt-2022/6/Muir-Hut.jpeg)
+![Evolution Sunset](/assets/jmt-2022/6/Evolution-Sunset.jpeg)
+![Sunset](/assets/jmt-2022/6/Sunset.jpeg)
+![Sapphire](/assets/jmt-2022/7/Sapphire.jpeg)
+![Golden Trout](/assets/jmt-2022/8/Golden-Trout.jpeg)
+![Fishing Hole](/assets/jmt-2022/8/Fishing-Hole.jpeg)

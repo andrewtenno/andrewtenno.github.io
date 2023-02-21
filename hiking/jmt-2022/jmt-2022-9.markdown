@@ -1,0 +1,16 @@
+---
+layout: post
+title: Piute Pass
+permalink: /hiking/jmt-22/other/piute-pass
+---
+
+# Stats
+- Mileage: 10.74
+- +2179/-2168 ft
+- [Gaia Track](https://www.gaiagps.com/public/vZ2mTtGWqqAmSlO40zxG03lA/)
+
+# Recap
+Did a quick early season hike up to the top of Piute Pass. Hit some snow at the top, and was pretty windy as well!
+
+![Pass](/assets/jmt-2022/9/Pass.jpeg)
+![Lake](/assets/jmt-2022/9/Lake.jpeg)

@@ -1,0 +1,60 @@
+---
+layout: post
+title: John Muir Trail II - Tuolumne Meadows to Whitney Portal (Summer 2023)
+permalink: /hiking/jmt-23/
+---
+
+# John Muir Trail - Summer 2023
+
+## Background
+In 2023 I did another thru of the John Muir Trail with my brother and one of his friends. The previous winter was a record snow year in California and that made for some pretty interesting travel [compared to my experience in 2020](/hiking/jmt-20/).
+
+## Prep
+### Gear
+[Lighterpack](https://lighterpack.com/r/i0cune) 
+
+Notes: 
+- I switched from the Kakwa 40 to the HMG Southwest 3400 (which I used on my [2020 JMT Hike](/hiking/jmt-20/)) halfway through the trip for a bit more carrying capacity. 
+  - The Kakwa 40 forced me to carry my bear can externally on top of the back and with the increasing chances of rain I made the decision to move to a larger pack so that I wouldn't have to worry as much about my food getting wet.
+- The X-Mid Pro 1 worked pretty well, though I had some issues with condensation throughout the trip.
+- Was cold a couple of nights; the 20 degree bag felt a bit insufficient at times
+- I popped my Sleeping Pad while attempting to dry it out on a rock at Guitar Lake. 
+- The Nightcore battery bank did not appear to agree with my Garmin Instinct. The watch would charge for a minute or two then stop.
+- My Garmin Instinct likely needs to be replaced before my next long hike. The battery life was pretty poor even with most of the sensors disabled.
+
+## Part 1: Tuolumne Meadows to North Lake
+- Day 1: Tuolumne Meadows to Upper Lyell Canyon
+- Day 2: Upper Lyell Canyon to Shadow Creek
+- Day 3: Shadow Creek to Coyote Creek
+- Day 4: Coyote Creek to Virginia Lake
+- Day 5: Lake Virginia to VVR
+- Day 6: VVR to Rosemarie Meadow
+- Day 7: Rosemarie Meadow to Piute Creek
+- Day 8: Piute Creek to Lower Golden Trout Lake
+- Day 9: Lower Golden Trout Lake to North Lake
+
+## Part 2: South Lake to Whitney Portal
+- Day 10 South Lake to LeConte Canyon
+- Day 11: LeConte Canyon to Upper Palisade Lake
+- Day 12: Upper Palisade Lake to Lake Marjorie
+- Day 13: Lake Marjorie to Middle Rae Lake
+- Day 14: Middle Rae Lake to Upper Bubbs Creek
+- Day 15: Upper Bubbs Creek to Wallace Creek
+- Day 16: Wallace Creek to Guitar Lake
+- Day 17: Guitar Lake to Whitney Portal
+
+## Other Trips
+- Cottonwood Lakes (Shakedown)
+
+## Favorite Photos
+
+![Donohue Pass](/assets/jmt-2023/donohue-pass.jpeg)
+![Glenn Pass](/assets/jmt-2023/glenn-pass.jpeg)
+![Selden Pass](/assets/jmt-2023/selden-pass.jpeg)
+![Palisades from Mather Pass](/assets/jmt-2023/palisades.jpeg)
+![Lake Marjorie](/assets/jmt-2023/lake-marjorie.jpeg)
+![Forester Pass](/assets/jmt-2023/forester-pass.jpeg)
+![Mt. Whitney Back](/assets/jmt-2023/whitney-back.jpeg)
+![Mt. Whitney Group](/assets/jmt-2023/whitney-group.jpeg)
+![Mt. Whitney Top](/assets/jmt-2023/whitney-top.jpeg)
+![Mt. Whitney Descent](/assets/jmt-2023/whitney-descent.jpeg)
